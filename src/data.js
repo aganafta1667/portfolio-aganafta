@@ -1,4 +1,4 @@
-import HeroImage from "./assets/profil.png";
+import HeroImage from "/assets/profil.png";
 
 const Image = {
   HeroImage,
